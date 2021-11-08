@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @LiaKim07
 - 👀 I’m interested in React & Next, Vue & Nuxt, NodeJS/ExpressJS, Laravel, MongoDB, MySQL/PostgreSQL, and so on...
 - 🌱 I’m currently learning Blockchain wiht Solana(Rust)...
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
 <br />
 ## Program Languages and Tools
-
+<hr />
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/>
