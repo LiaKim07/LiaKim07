@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Aprilia, Individual developer from Indonesia.
-- 👀 I’m interested in React & Next, Vue & Nuxt, NodeJS/ExpressJS, Laravel, MongoDB, MySQL/PostgreSQL, and so on...
-- 🌱 I’m currently learning Blockchain with Solana(Rust)...
+- 👋 Hi,
 <br />
 ## Program Languages and Tools
 <hr />
